@@ -12,5 +12,15 @@
     "mysql": "^2.18.1",
     "mysql2": "^3.2.4",
     "sequelize": "^6.31.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mvc-tech-blog",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
